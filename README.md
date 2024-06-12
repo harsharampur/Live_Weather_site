@@ -21,7 +21,7 @@ This project is a weather website built using HTML, CSS, and JavaScript. It fetc
 3. View current weather conditions for the specified city.
 
 ## Demo
-Access the live demo [here](insert your website link).
+Access the live demo [here](https://github.com/harsharampur/Live_Weather_site/issues/1#issuecomment-2162164036).
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements or new features.
