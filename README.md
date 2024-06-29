@@ -23,6 +23,9 @@ This project is a weather website built using HTML, CSS, and JavaScript. It fetc
 ## Demo
 https://github.com/harsharampur/Live_Weather_site/issues/1#issuecomment-2162164036
 
+![Screenshot 2024-06-29 100501](https://github.com/harsharampur/Live_Weather_site/assets/135097306/c19e7b00-7c1b-4a1f-9368-a15c0919c05f)
+
+
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements or new features.
 
